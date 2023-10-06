@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 node_modules
 npm-debug.log
@@ -8,6 +9,8 @@ dist
 build
 .vscode
 =======
+=======
+>>>>>>> 9fc0aa1124bf7dcee4da9b3a7184394a3257807a
 # Logs
 logs
 *.log
@@ -138,4 +141,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
+>>>>>>> 9fc0aa1124bf7dcee4da9b3a7184394a3257807a
+=======
 >>>>>>> 9fc0aa1124bf7dcee4da9b3a7184394a3257807a
